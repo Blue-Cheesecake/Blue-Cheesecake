@@ -1,5 +1,7 @@
 ###  (ɔ◔‿◔)ɔ ♥
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/CC_CheeseCake?theme=unicorn)
+
 <!--
 **Blue-Cheesecake/Blue-Cheesecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
