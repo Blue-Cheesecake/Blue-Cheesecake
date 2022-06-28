@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Swift, Java, C, and Python programming!**
 
-- 📫 How to reach me **s_w.piepie@outlook.com.au**
+- 📫 How to reach me: **s_w.piepie@outlook.com.au**
 
-- ⚡ Fun facts **In Luv with Dessert**
+- ⚡ Fun facts: **In Luv with Dessert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
