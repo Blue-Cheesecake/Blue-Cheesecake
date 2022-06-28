@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at this github [https://github.com/Blue-Cheesecake](https://github.com/Blue-Cheesecake)
 
-- 💬 Ask me about **C, Java, Python, and Swift programming!**
+- 💬 Ask me about **Swift, Java, C, and Python programming!**
 
 - 📫 How to reach me **s_w.piepie@outlook.com.au**
 
