@@ -1,7 +1,7 @@
 ###  (ɔ◔‿◔)ɔ ♥
 
 <h1 align="center">Hola! 👋, I'm Sprite !!!</h1>
-<h3 align="center">A energetic undergraduate student on Thailand.</h3>
+<h3 align="center">An energetic undergraduate student on Thailand.</h3>
 
 - 🌱 I’m currently learning **iOS App Development with Swift**
 
