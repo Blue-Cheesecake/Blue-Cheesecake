@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/cc_cheesecake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cc_cheesecake" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Languages & Development Tools:</h3>
 <p align="left"> 
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
@@ -42,19 +42,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
-</p>
 
-<h3 align="left">Mobile Development:</h3>
-<p align="left">
 
 <a href="https://developer.apple.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IOS_logo.svg/1024px-IOS_logo.svg.png" alt="iOS" width="40" height="40"/> 
 </a> 
-
-</p>
-
-<h3 align="left">Frontend Development:</h3>
-<p align="left">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -64,11 +56,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a> 
 
-</p>
-
-<h3 align="left">Backend Development:</h3>
-<p align="left">
-
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -76,14 +63,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
-</p>
-
-<h3 align="left">Database:</h3>
-<p align="left">
-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 </a> 
+
 
 </p>
 
