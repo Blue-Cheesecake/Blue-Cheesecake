@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **iOS App Development with Swift**
 
-- 👨‍💻 All of my projects are available at this github [https://github.com/Blue-Cheesecake](https://github.com/Blue-Cheesecake)
+- 👨‍💻 All of my projects are available at [this](https://github.com/Blue-Cheesecake) github 
 
 - 💬 Ask me about **Swift, Java, C, and Python programming!**
 
