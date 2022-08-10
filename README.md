@@ -1,11 +1,11 @@
 <h1 align="center">Hola! 👋, I'm Sprite !!!</h1>
-<h3 align="center">An energetic undergraduate student in Thailand.</h3>
+<h3 align="center">An flexible undergraduate student in Thailand.</h3>
 
-- 🌱 I’m currently learning **iOS App Development with Swift**
+- 🌱 Currently learning **Mobile App Development with Flutter**
 
 - 👨‍💻 All of my projects are available at [this](https://github.com/Blue-Cheesecake) github 
 
-- 💬 Ask me about **Swift, Java, C, and Python programming!**
+- 💬 Ask me about **Flutter & Dart, Swift, Java, C, and Python programming!**
 
 - ⚡ Fun facts: **In Luv with Dessert**
 
@@ -19,6 +19,11 @@
 
 <h3 align="left">Languages & Development Tools:</h3>
 <p align="left"> 
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
+  <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="swift" width="40" height="40"/> 
+</a>
+
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left: 100px"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
