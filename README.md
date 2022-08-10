@@ -1,5 +1,5 @@
-<h1 align="center">Hola! 👋, I'm Sprite !!!</h1>
-<h3 align="center">An flexible undergraduate student in Thailand.</h3>
+<h1 align="center">Hello! 👋, Sprite at your service</h1>
+<h3 align="center">An undergraduate student in Thailand.</h3>
 
 - 🌱 Currently learning **Mobile App Development with Flutter**
 
