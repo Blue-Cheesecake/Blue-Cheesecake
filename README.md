@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, Sprite at your service</h1>
+<h1 align="center">Hi! 👋, I'm Sprite</h1>
 <h3 align="center">An undergraduate student in Thailand.</h3>
 
 - 🌱 Currently learning **Mobile App Development with Flutter**
@@ -83,6 +83,16 @@
 <p><a href="https://www.buymeacoffee.com/Sinut Wattanarporn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sinut Wattanarporn" /></a></p><br><br>
 
 
+
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+<blockquote>Do not be sorry, be better</blockquote>
 
 <!--
 **Blue-Cheesecake/Blue-Cheesecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
