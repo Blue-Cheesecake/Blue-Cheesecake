@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
 <h3 align="center">An undergraduate student in Thailand.</h3>
 
-- 🌱 Currently learning **Mobile App Development with Flutter**
+- 🌱 Currently learning **Mobile App Development with Flutter** and **Backend Development with ASP .NET Core**
 
 - 👨‍💻 All of my projects are available at [this](https://github.com/Blue-Cheesecake) github
 
