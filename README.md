@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
-<h3 align="center">An Software Engineer Student in Thailand.</h3>
+<h3 align="center">A Software Engineer Student in Thailand.</h3>
 
 - 🌱 Currently focusing on learning **Mobile App Development with Flutter and Firebase**.
 
