@@ -1,11 +1,13 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
-<h3 align="center">An undergraduate student in Thailand.</h3>
+<h3 align="center">An undergraduate Software Engineer Student in Thailand.</h3>
 
-- 🌱 Currently learning **Mobile App Development with Flutter** and **Backend Development with ASP .NET Core**
+- 🌱 Currently learning **Mobile App Development with Flutter and Firebase**.
 
 - 👨‍💻 All of my projects are available at [this](https://github.com/Blue-Cheesecake) github
 
-- 💬 Ask me about **Flutter & Dart, Swift, Java, C, and Python programming!**
+- 💬 Ask me about **Flutter & Dart, OOP, Java, C, and Python programming!**
+
+- Eventhough I have a broad range of programming experience including web programming, data analysis, backend dev, or native mobile app, I tends to forget the deep details about them 😅. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
