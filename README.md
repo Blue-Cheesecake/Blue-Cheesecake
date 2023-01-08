@@ -1,14 +1,18 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
-<h3 align="center">An undergraduate Software Engineer Student in Thailand.</h3>
+<h3 align="center">An Software Engineer Student in Thailand.</h3>
 
-- 🌱 Currently learning **Mobile App Development with Flutter and Firebase**.
+- 🌱 Currently focusing on learning **Mobile App Development with Flutter and Firebase**.
 
-- 👨‍💻 All of my projects are available at [this](https://github.com/Blue-Cheesecake) github
+- 👨‍💻 All of my projects are available at this Github
+
+- 👯 I would be really happy to be asked for help or collaboration in your project. **DO NOT** hesitate to connect with me!
 
 - 💬 Ask me about **Flutter & Dart, OOP, Java, C, and Python programming!**
 
-- Eventhough I have a broad range of programming experience including web programming, data analysis, backend dev, or native mobile app, I tends to forget the deep details about them 😅. 
-
+<!-- - 📫 Experienced and worked with backend technologies like Flask, ASP.NET Core, and Express, web development frameworks like React, and tools for Data analysis such as Pandas, and Matplotlib with Python.  
+ -->
+ 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/my-sprite-sinut-w" target="blank"><img align="center"
@@ -41,9 +45,6 @@
 
 <h3 align="left">Web Development Tools</h3>
 <p align="left">
-
-
-
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
@@ -59,19 +60,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express" width="40" height="40" />
   </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
   </a>
-
-
-
 </p>
 
 
 <h3 align="left">Others</h3>
 <p align="left">
-
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
       height="40" />
