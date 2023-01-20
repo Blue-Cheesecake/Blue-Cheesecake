@@ -9,10 +9,9 @@
 
 - 💬 Ask me about **Flutter & Dart, OOP, Java, C, and Python programming!**
 
-<!-- - 📫 Experienced and worked with backend technologies like Flask, ASP.NET Core, and Express, web development frameworks like React, and tools for Data analysis such as Pandas, and Matplotlib with Python.  
+<!-- - 📫 Experienced and worked with backend technologies like Flask, ASP.NET Core, and Express, web development frameworks like React, and tools for Data analysis such as Pandas, and Matplotlib with Python.
  -->
- 
- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/my-sprite-sinut-w" target="blank"><img align="center"
@@ -26,26 +25,93 @@
       alt="cc_cheesecake" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Mobile Development Tools</h3>
+<h3 align="left">Mobile Development</h3>
 <p align="left">
 
+  <p align="left">
+  <span style="font-weight: bold;">Focusing:</span> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer" style="margin-left: 100px">
     <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
       alt="swift" width="40" height="40" />
   </a>
+  </p>
 
-
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left: 100px">
+  <br />
+  
+  <p align="left">
+  Tried: 
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left: 100px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
       width="40" height="40" />
   </a>
+  </p>
 
+</p>
 
+<h3 align="left">Backend Development</h3>
+<p align="left">
+  
+  <p align="left">
+  <span style="font-weight: bold;">Focusing:</span> 
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg"
+        alt="blazor" width="40" height="40" />
+    </a>
+  </p>
+
+  <!-- <p align="left">
+  Future Learning: 
+    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+      <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"
+        alt="django" width="100" height="40" />
+    </a>
+    ,
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express" width="40" height="40" />
+  </a>
+  </p> -->
+
+  <p align="left">
+  Tried: 
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png"
+        alt="flask" width="100" height="40" />
+    </a>
+  </p>
+
+</p>
+
+<h3 align="left">Database</h3>
+<p align="left">
+  
+  <p align="left">
+    <span style="font-weight: bold;">Focusing:</span> 
+    <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+      <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png"
+        alt="mysql" width="100" height="30" />
+    </a>,
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" width="40" height="40" />
+    </a>
+  </p>
+
+  <!-- <p align="left">
+  Future Learning: 
+    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+        alt="django" width="140" height="40" />
+    </a>
+  </p> -->
 </p>
 
 <h3 align="left">Web Development Tools</h3>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+
+  <p align="left">
+  Tried: 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" />
   </a>
@@ -55,18 +121,13 @@
       height="40" />
   </a>
 
-
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="40" height="40" />
-  </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" />
-  </a>
-</p>
+  </a>    
+  </p>
 
+</p>
 
 <h3 align="left">Others</h3>
 <p align="left">
@@ -82,21 +143,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" />
-  </a>
 
 </p>
 
 <h3 align="left">LeetCode Stat:</h3>
 <p align="left">
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/CC_CheeseCake?theme=unicorn)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/CC_CheeseCake?theme=unicorn)
 
 </p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Sinut Wattanarporn"> <img align="left"
