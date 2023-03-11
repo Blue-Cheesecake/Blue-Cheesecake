@@ -7,7 +7,12 @@
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. **DO NOT** hesitate to connect with me!
 
-- 💬 Ask me about **Flutter & Dart, OOP, Java, C, and Python programming!**
+- 💬 Ask me about **Flutter & Dart, and Software Engineering!**
+
+<br />
+<p align="center"><i>Not only just making Software Right but Right Software!</i></p>
+
+
 
 <!-- - 📫 Experienced and worked with backend technologies like Flask, ASP.NET Core, and Express, web development frameworks like React, and tools for Data analysis such as Pandas, and Matplotlib with Python.
  -->
@@ -57,7 +62,16 @@
       <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg"
         alt="blazor" width="40" height="40" />
     </a>
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png"
+        alt="Flask" width="100" height="40" />
+    </a>
+
+
+
   </p>
+
+
 
   <!-- <p align="left">
   Future Learning: 
@@ -71,14 +85,14 @@
       alt="express" width="40" height="40" />
   </a>
   </p> -->
-
+<!-- 
   <p align="left">
   Tried: 
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png"
         alt="flask" width="100" height="40" />
     </a>
-  </p>
+  </p> -->
 
 </p>
 
@@ -158,11 +172,11 @@
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
       alt="Sinut Wattanarporn" /></a></p><br><br>
 
+<!-- </br>
 </br>
 </br>
 </br>
-</br>
-<blockquote>Do not be sorry, be better</blockquote>
+<blockquote>Not only just making Software Right but Right Software!</blockquote> -->
 
 <!--
 **Blue-Cheesecake/Blue-Cheesecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
