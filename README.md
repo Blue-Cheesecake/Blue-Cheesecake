@@ -40,16 +40,16 @@
       alt="swift" width="40" height="40" />
   </a>
   </p>
-
-  <br />
+<!-- 
+  <br /> -->
   
-  <p align="left">
+<!--   <p align="left">
   Tried: 
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="margin-left: 100px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
       width="40" height="40" />
   </a>
-  </p>
+  </p> -->
 
 </p>
 
@@ -120,7 +120,7 @@
   </p> -->
 </p>
 
-<h3 align="left">Web Development Tools</h3>
+<!-- <h3 align="left">Web Development Tools</h3>
 <p align="left">
 
   <p align="left">
@@ -141,9 +141,9 @@
   </a>    
   </p>
 
-</p>
+</p> -->
 
-<h3 align="left">Others</h3>
+<!-- <h3 align="left">Others</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
@@ -158,7 +158,7 @@
       width="40" height="40" />
   </a>
 
-</p>
+</p> -->
 
 <h3 align="left">LeetCode Stat:</h3>
 <p align="left">
