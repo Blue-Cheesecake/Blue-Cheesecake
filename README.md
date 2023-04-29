@@ -7,7 +7,7 @@
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. **DO NOT** hesitate to connect with me!
 
-- 💬 Ask me about **Flutter & Dart, and Software Engineering!**
+- 💬 Ask me about **Flutter & Dart, Java, Software Engineering!**
 
 <br />
 <p align="center"><i>Not only just making Software Right but Right Software!</i></p>
@@ -102,8 +102,8 @@
   <p align="left">
     <span style="font-weight: bold;">Focusing:</span> 
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-      <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png"
-        alt="mysql" width="100" height="30" />
+      <img src="https://www.gameartguppy.com/wp-content/uploads/2019/04/mascot_firebase-logo.png"
+        alt="mysql" width="50" height="50" />
     </a>,
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
