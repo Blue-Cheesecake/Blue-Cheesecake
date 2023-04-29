@@ -58,9 +58,9 @@
   
   <p align="left">
   <span style="font-weight: bold;">Focusing:</span> 
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/blazor.svg"
-        alt="blazor" width="40" height="40" />
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+      <img src="https://www.dariawan.com/media/images/tech-spring-boot.width-1024.png"
+        alt="spring boot" width="160" height="50" />
     </a>
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png"
