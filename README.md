@@ -101,13 +101,17 @@
   
   <p align="left">
     <span style="font-weight: bold;">Focusing:</span> 
+   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+        alt="mongodb" height="50" />
+    </a>,
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
       <img src="https://www.gameartguppy.com/wp-content/uploads/2019/04/mascot_firebase-logo.png"
-        alt="mysql" width="50" height="50" />
+        alt="firebase" width="50" height="50" />
     </a>,
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" />
+        alt="mysql" height="50" />
     </a>
   </p>
 
