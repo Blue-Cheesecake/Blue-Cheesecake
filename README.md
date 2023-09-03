@@ -1,13 +1,12 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
 <h3 align="center">A Software Engineering Student in Thailand.</h3>
 
-- 🌱 Currently focusing on learning **Mobile App Development with Flutter and Firebase**.
+- 🌱 Currently focusing on learning **Mobile App Development with Flutter** and **Backend Development with Express (Typescript)**.
 
-- 👨‍💻 All of my projects are available at this Github
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. **DO NOT** hesitate to connect with me!
 
-- 💬 Ask me about **Flutter & Dart, Java, Software Engineering!**
+- 💬 Ask me about **Flutter & Dart, Typescript, Java, and Software Engineering!**
 
 <br />
 <p align="center"><i>Not only just making Software Right but Right Software!</i></p>
@@ -62,9 +61,9 @@
       <img src="https://www.dariawan.com/media/images/tech-spring-boot.width-1024.png"
         alt="spring boot" width="160" height="50" />
     </a>
-    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png"
-        alt="Flask" width="100" height="40" />
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+        alt="Express" height="40" />
     </a>
 
 
