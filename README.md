@@ -1,8 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
 <h3 align="center">A Software Engineering Student in Thailand.</h3>
 
-- 🌱 Currently focusing on learning **Mobile App Development with Flutter** and **Backend Development with Express (Typescript)**.
-
+- 🌱 Currently focusing on **Mobile App Development with Flutter** and **Backend Development with Express (Typescript)**.
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. **DO NOT** hesitate to connect with me!
 
