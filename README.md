@@ -3,9 +3,11 @@
 
 - 🌱 Currently focusing on **Mobile App Development with Flutter** and **Backend Development with NestJS (TypeScript)**.
 
-- 👯 I would be really happy to be asked for help or collaboration in your project. **DO NOT** hesitate to connect with me!
+- 👯 I would be really happy to be asked for help or collaboration in your project. Do not hesitate to connect with me!
 
 - 💬 Ask me about **Flutter & Dart, Typescript, and Software Engineering!**
+
+- 📫 Reach me via **<span>s_w.piepie@outlook.com.au</span>**
 
 <br />
 <p align="center"><i>Not only just making Software Right but Right Software!</i></p>
