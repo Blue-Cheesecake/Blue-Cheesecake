@@ -5,7 +5,7 @@
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. Do not hesitate to connect with me!
 
-- 💬 Ask me about **Flutter & Dart, Typescript, and Software Engineering!**
+- 💬 Ask me about **Flutter & Dart, Backend Development, and Software Engineering!**
 
 - 📫 Reach me via **<span>s_w.piepie@outlook.com.au</span>**
 
@@ -127,6 +127,38 @@
         alt="crashlytics" height="70" />
     </a>
   </p>
+</p>
+
+<h3>Familiar Languages</h3>
+<p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"
+        alt="dart" height="50" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"
+        alt="dart" height="50" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"
+        alt="dart" height="50" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"
+        alt="dart" height="50" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://www.cdnlogo.com/logos/c/27/c.svg"
+        alt="dart" height="50" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+        alt="dart" height="50" />
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+        alt="dart" height="50" />
+    </a>
 </p>
 
 
