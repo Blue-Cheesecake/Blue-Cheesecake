@@ -1,11 +1,11 @@
 <h1 align="center">Hi! 👋, I'm Sprite</h1>
 <h3 align="center">A Software Engineer in Thailand.</h3>
 
-- 🌱 Currently focusing on **Mobile App Development with Flutter** and **Backend Development with NestJS (TypeScript)**.
+- 🌱 Currently focusing on **Mobile App Development with Flutter** and **Software Development with Rust**.
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. Do not hesitate to connect with me!
 
-- 💬 Ask me about **Flutter & Dart, Backend Development, and Software Engineering!**
+- 💬 Ask me about **Flutter & Dart, Rust, Backend Development, and Software Engineering!**
 
 - 📫 Reach me via **<span>s_w.piepie@outlook.com.au</span>**
 
@@ -131,6 +131,10 @@
 
 <h3>Familiar Languages</h3>
 <p align="left">
+    <a href="" target="_blank" rel="noreferrer">
+      <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png"
+        alt="rust" height="50" />
+    </a>
     <a href="" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"
         alt="dart" height="50" />
