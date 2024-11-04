@@ -1,11 +1,11 @@
-<h1 align="center">Hi! 👋, I'm Sprite</h1>
+<h1 align="center">Sprite </h1>
 <h3 align="center">A Software Engineer in Thailand.</h3>
 
-- 🌱 Currently focusing on **Mobile App Development with Flutter** and **Software Development with Rust**.
+- 🌱 Currently working on **Mobile App Development with Flutter** and **Backend Development with NestJS**.
 
 - 👯 I would be really happy to be asked for help or collaboration in your project. Do not hesitate to connect with me!
 
-- 💬 Ask me about **Flutter & Dart, Rust, Backend Development, and Software Engineering!**
+- 💬 Ask me about **Flutter & Dart, Backend Development, and Software Engineering!**
 
 - 📫 Reach me via **<span>s_w.piepie@outlook.com.au</span>**
 
