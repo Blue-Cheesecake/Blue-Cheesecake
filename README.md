@@ -16,7 +16,6 @@
 
 <p align="center"><i>"Not only just making Software Right but making the Right Software!"</i></p>
 
----
 
 ## 🚀 Connect with Me
 
@@ -30,8 +29,6 @@
     alt="LeetCode" height="30" width="40" />
   </a>
 </p>
-
----
 
 ## 🛠️ Skills and Technologies
 
@@ -99,8 +96,6 @@
     <img src="https://pbs.twimg.com/profile_images/1445567727452647433/g5A-t4Ji_400x400.jpg" alt="Crashlytics" height="70" />
   </a>
 </p>
-
----
 
 ## 💻 Familiar Languages & Tools
 <p>
