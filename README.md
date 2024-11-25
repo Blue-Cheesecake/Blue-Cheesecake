@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Sprite 🌟</h1>
 <h3 align="center">A Software Engineer from Thailand</h3>
 
-<p align="center">🌱 Passionate about <strong>Mobile App Development</strong> (Flutter) and <strong>Backend Development</strong> (NestJS).</p>
+<p align="center">🌱 Passionate about <strong>Mobile App Development</strong> (Flutter, SwiftUI) and <strong>Backend Development</strong> (NestJS).</p>
 <p align="center">
   👯 I am happy to collaborate on your projects—feel free to reach out!
 </p>
@@ -46,6 +46,9 @@
 <p>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" height="50" />
+  </a>
+   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="Flutter" height="50" />
   </a>
 </p>
 
