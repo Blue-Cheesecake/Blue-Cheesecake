@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Sprite 🌟</h1>
 <h3 align="center">A Software Engineer from Thailand</h3>
 
-<p align="center">🌱 Passionate about <strong>Mobile App Development</strong> (Flutter, SwiftUI) and <strong>Backend Development</strong> (NestJS).</p>
+<p align="center">🌱 Passionate about <strong>Mobile App Development</strong> (Flutter, Jetpack Compose) and <strong>Backend Development</strong> (NestJS).</p>
 <p align="center">
   👯 I am happy to collaborate on your projects—feel free to reach out!
 </p>
@@ -38,7 +38,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" height="50" />
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="Confluence" height="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="50" />
   </a>
 </p>
 
@@ -47,8 +47,8 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" height="50" />
   </a>
-   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:384/1*PeFnya42mpOiCvdgm49ifQ.png" alt="Flutter" height="50" />
+   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="JetpackCompose" height="50" />
   </a>
 </p>
 
