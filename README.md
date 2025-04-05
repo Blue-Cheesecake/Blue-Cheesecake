@@ -83,6 +83,9 @@
 
 ### 🔍 Monitoring
 <p>
+  <a href="https://newrelic.com/welcome-back" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00a71403ce0d92bff02f_de38db1c-017a-526c-9df6-ced05202521b.svg" alt="New Relic" height="70" />
+  </a>
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
     <img src="https://imgix.datadoghq.com//img/about/presskit/DDlogo.jpg?dpr=2&auto=format" alt="Datadog" height="70" />
   </a>
