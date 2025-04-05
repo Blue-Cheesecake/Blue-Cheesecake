@@ -1,15 +1,16 @@
 <h1 align="center">🌟 Sprite 🌟</h1>
 <h3 align="center">A Software Engineer from Thailand</h3>
 
-<p align="center">🌱 Passionate about <strong>Mobile App Development</strong> (Flutter, Jetpack Compose) and <strong>Backend Development</strong> (NestJS).</p>
+<p align="center">🌱 Passionate about <strong>Mobile App</strong> (Flutter), <strong>Backend </strong> (NestJS), and <strong>Platform Engineering (AWS)</strong>.</p>
+
 <p align="center">
   👯 I am happy to collaborate on your projects—feel free to reach out!
 </p>
 <p align="center">
-  💬 Ask me about <strong>Flutter, Dart, Backend Development, and Software Engineering!</strong>
+  💬 Ask me about <strong>Flutter, Backend, Platform, and Software Engineering!</strong>
 </p>
 <p align="center">
-  📫 Contact me at: <a href="mailto:s_w.piepie@outlook.com.au">s_w.piepie@outlook.com.au</a>
+  📫 Contact me at: <a href="mailto:s_w.piepie@outlook.com.au">sinut.wa@outlook.com</a>
 </p>
 
 <br />
@@ -47,9 +48,6 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" height="50" />
   </a>
-   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="JetpackCompose" height="50" />
-  </a>
 </p>
 
 ### 🖥️ Backend Development
@@ -69,24 +67,17 @@
   </a>
 </p>
 
-### ☁️ Storage
+### ☁️ Cloud Provider
 <p>
-  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1200px-Amazon-S3-Logo.svg.png" alt="S3" height="50" />
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="S3" height="50" />
   </a>
 </p>
 
-### 🐳 Containerization
+### ⚙️ Infrastructure as Code
 <p>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="70" />
-  </a>
-</p>
-
-### 🌐 Web Servers
-<p>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg/1024px-AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" alt="AWS EC2" height="70" />
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://encore.cloud/assets/resources/terraform_cover.png" alt="S3" height="50" />
   </a>
 </p>
 
