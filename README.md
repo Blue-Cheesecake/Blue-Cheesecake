@@ -1,16 +1,16 @@
 <h1 align="center">🌟 Sprite 🌟</h1>
 <h3 align="center">A Software Engineer from Thailand</h3>
 
-<p align="center">🌱 Passionate about <strong>Mobile App</strong> (Flutter), <strong>Backend </strong> (NestJS), and <strong>Platform Engineering (AWS)</strong>.</p>
+<p align="center">🌱 Passionate about <strong>Mobile App</strong> (Flutter), and <strong>Platform Engineering</strong> (AWS).</p>
 
 <p align="center">
   👯 I am happy to collaborate on your projects—feel free to reach out!
 </p>
 <p align="center">
-  💬 Ask me about <strong>Flutter, Backend, Platform, and Software Engineering!</strong>
+  💬 Ask me about <strong>Flutter, AWS, and Software Engineering!</strong>
 </p>
 <p align="center">
-  📫 Contact me at: <a href="mailto:s_w.piepie@outlook.com.au">sinut.wa@outlook.com</a>
+  📫 Contact me at: <a href="mailto:sinut.wa@outlook.com">sinut.wa@outlook.com</a>
 </p>
 
 <br />
@@ -50,23 +50,6 @@
   </a>
 </p>
 
-### 🖥️ Backend Development
-<p>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="NestJS" height="50" />
-  </a>
-</p>
-
-### 🗄️ Databases
-<p>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="MongoDB" height="50" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" />
-  </a>
-</p>
-
 ### ☁️ Cloud Provider
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -91,6 +74,23 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1445567727452647433/g5A-t4Ji_400x400.jpg" alt="Crashlytics" height="70" />
+  </a>
+</p>
+
+### 🖥️ Backend Development
+<p>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="NestJS" height="50" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+    <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="MongoDB" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" height="50" />
   </a>
 </p>
 
