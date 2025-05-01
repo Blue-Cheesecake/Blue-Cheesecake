@@ -33,27 +33,17 @@
 
 ## 🛠️ Skills and Technologies
 
-### 📋 Project Management Tools
-<p>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" height="50" />
-  </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="50" />
-  </a>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" height="50" />
-  </a>
-</p>
-
 ### ☁️ Cloud Provider
 <p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="S3" height="50" />
+  </a>
+</p>
+
+### 📃 Certificates
+<p>
+  <a href="https://www.credly.com/badges/f57fa0e0-c75f-4f87-8aa9-054fc480cfd9/public_url" target="_blank" rel="noreferrer">
+    <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="cert" height="80" />
   </a>
 </p>
 
@@ -74,6 +64,23 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1445567727452647433/g5A-t4Ji_400x400.jpg" alt="Crashlytics" height="70" />
+  </a>
+</p>
+
+### 📋 Project Management Tools
+<p>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="Jira" height="50" />
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="50" />
+  </a>
+</p>
+
+### 📱 Mobile Development
+<p>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" height="50" />
   </a>
 </p>
 
