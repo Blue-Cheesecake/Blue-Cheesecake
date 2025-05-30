@@ -70,7 +70,7 @@
 ### 📋 Project Management Tools
 <p>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_160511.png" alt="Jira" height="60" />
+    <img src="https://static-00.iconduck.com/assets.00/jira-icon-2048x2048-nufjgz6n.png" alt="Jira" height="60" />
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Confluence" height="60" />
